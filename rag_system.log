@@ -1,0 +1,8 @@
+2024-11-19 21:22:42,821 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-11-19 21:22:42,822 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-19 21:22:48,436 - app - INFO - Initialized local embedding model: all-MiniLM-L6-v2
+2024-11-19 21:22:48,443 - app - ERROR - Failed to initialize RAG system: 
+2024-11-19 21:27:35,077 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-11-19 21:27:35,078 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-19 21:27:40,513 - app - INFO - Initialized local embedding model: all-MiniLM-L6-v2
+2024-11-19 21:27:40,516 - app - ERROR - Failed to initialize RAG system: 
