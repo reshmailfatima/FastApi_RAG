@@ -1,7 +1,9 @@
+llama-index
+google-generativeai
+sentence-transformers
+python-dotenv
 fastapi
 uvicorn
 python-multipart
-llama-index
-sentence-transformers
-PyPDF2
-dotenv 
+faiss-cpu
+llama-index-llms-gemini
